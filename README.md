@@ -1,2 +1,2 @@
-# spring-mongodb
-How to intigrate spring boot with mongodb
+#JAVA SPRING MONGODB
+Integrate Spring Boot and MongoDB
